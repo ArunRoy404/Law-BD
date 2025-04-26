@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+    font-family: "Mulish", sans-serif;
+}
+
+.logo-font {
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.mulish {
+    font-family: "Mulish", sans-serif;
+}
+
+.manrope {
+    font-family: "Manrope", sans-serif;
+}
+
+.btn-primary {
+    color: white;
+    font-weight: 700;
+    background: #0EA106;
+    padding: 14px 30px;
+    border-radius: 99px;
+    transition: 0.3s;
+}
+.btn-primary:hover{
+    background-color: white;
+    color: #0EA106;
+    border: 1px solid;
+  
+}
+
+
+.btn-secondary {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background: #2B7FFF;
+    padding: 14px 30px;
+    border-radius: 99px;
+    transition: 0.3s;
+}
+.btn-secondary:hover{
+    background-color: white;
+    color: #2B7FFF;
+    border: 1px solid;
+}
+
+nav ul .active {
+    border-bottom: 2px solid black;
+    border-radius: 0px;
+    color: black;
+    font-weight: 800;
+}
+
+footer ul .active {
+    border-bottom: 2px solid White;
+    border-radius: 0px;
+    color: White;
+    font-weight: 800;
+}

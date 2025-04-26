@@ -1,0 +1,122 @@
+[
+  {
+    "image": "https://i.ibb.co.com/vCnFMDzS/Mohammed-Forrukh-Rahman-Head-of-Chambers.jpg",
+    "name": "Adv. Rahman Hossain",
+    "speciality": "Criminal Law",
+    "experience": 10,
+    "license_number": "BD 12451254",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "consultation_fee": 2000,
+    "barColor": "#FF5733"
+  },
+  {
+    "image": "https://i.ibb.co.com/4wLhPFRv/Ms-Tanzila-Sharmin-Bushra.jpg",
+    "name": "Adv. Farhana Karim",
+    "speciality": "Family Law",
+    "experience": 8,
+    "license_number": "BD 12451255",
+    "availability": ["Tuesday", "Thursday"],
+    "consultation_fee": 1800,
+    "barColor": "#33A1FF"
+  },
+  {
+    "image": "https://i.ibb.co.com/VWX4g8fN/BARRISTER-OMAR-H-KHAN.jpg",
+    "name": "Adv. Anisur Rahman",
+    "speciality": "Corporate Law",
+    "experience": 12,
+    "license_number": "BD 12451256",
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "consultation_fee": 2500,
+    "barColor": "#28A745"
+  },
+  {
+    "image": "https://i.ibb.co.com/GQN4s85z/BARRISTER-MITI-SANJANA.jpg",
+    "name": "Adv. Nusrat Jahan",
+    "speciality": "Immigration Law",
+    "experience": 6,
+    "license_number": "BD 12451257",
+    "availability": ["Monday", "Thursday"],
+    "consultation_fee": 1700,
+    "barColor": "#FFC107"
+  },
+  {
+    "image": "https://i.ibb.co.com/Mk3pFZs9/BARRISTER-MOHAMMAD-SHAHRUKH-SADEK.jpg",
+    "name": "Adv. Mahmudul Hasan",
+    "speciality": "Labor Law",
+    "experience": 9,
+    "license_number": "BD 12451258",
+    "availability": ["Wednesday", "Saturday"],
+    "consultation_fee": 1900,
+    "barColor": "#6F42C1"
+  },
+  {
+    "image": "https://i.ibb.co.com/7x8t0hVJ/BARRISTER-RABIYA-J-FIROZ.jpg",
+    "name": "Adv. Rina Akter",
+    "speciality": "Civil Litigation",
+    "experience": 11,
+    "license_number": "BD 12451259",
+    "availability": ["Sunday", "Tuesday", "Friday"],
+    "consultation_fee": 2200,
+    "barColor": "#20C997"
+  },
+  {
+    "image": "https://i.ibb.co.com/FS8WrdR/Barrister-Mohammed-Osman-Goni.jpg",
+    "name": "Adv. Jamal Uddin",
+    "speciality": "Intellectual Property",
+    "experience": 7,
+    "license_number": "BD 12451260",
+    "availability": ["Monday", "Wednesday"],
+    "consultation_fee": 2300,
+    "barColor": "#E83E8C"
+  },
+  {
+    "image": "https://i.ibb.co.com/zWKvcY2d/BARRISTER-TAHMINISHA-SAYARAH-KHAN.jpg",
+    "name": "Adv. Sharmin Sultana",
+    "speciality": "Tax Law",
+    "experience": 5,
+    "license_number": "BD 12451261",
+    "availability": ["Tuesday", "Friday"],
+    "consultation_fee": 1600,
+    "barColor": "#17A2B8"
+  },
+  {
+    "image": "https://i.ibb.co.com/XZLYp8K2/Mohammad-Moyen-Uddin.jpg",
+    "name": "Adv. Azim Chowdhury",
+    "speciality": "Constitutional Law",
+    "experience": 14,
+    "license_number": "BD 12451262",
+    "availability": ["Sunday", "Monday"],
+    "consultation_fee": 2800,
+    "barColor": "#6610F2"
+  },
+  {
+    "image": "https://i.ibb.co.com/67fMzBtM/ADVOCATE-AFRIN-JAHAN-KHAN.jpg",
+    "name": "Adv. Tania Rahman",
+    "speciality": "Environmental Law",
+    "experience": 6,
+    "license_number": "BD 12451263",
+    "availability": ["Wednesday", "Saturday"],
+    "consultation_fee": 1900,
+    "barColor": "#FF6F61"
+  },
+  {
+    "image": "https://i.ibb.co.com/C3cpkbN7/Saddam-scaled-1.jpg",
+    "name": "Adv. Fakhrul Islam",
+    "speciality": "Banking & Finance",
+    "experience": 10,
+    "license_number": "BD 12451264",
+    "availability": ["Tuesday", "Thursday", "Friday"],
+    "consultation_fee": 2400,
+    "barColor": "#00CED1"
+  },
+  {
+    "image": "https://i.ibb.co.com/JwjV5McC/Ms-Kamrunnaher.jpg",
+    "name": "Adv. Nabila Chowdhury",
+    "speciality": "Cyber Law",
+    "experience": 4,
+    "license_number": "BD 12451265",
+    "availability": ["Monday", "Wednesday", "Saturday"],
+    "consultation_fee": 1500,
+    "barColor": "#FD7E14"
+  }
+]
